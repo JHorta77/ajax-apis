@@ -4,6 +4,7 @@ This web application uses the GIPHY API to create a dynamic web page that popula
 
 # What I Used
 
+JavaScript, JQuery, HTML, CSS and Bootstrap.
 
 # Get Started 
 
